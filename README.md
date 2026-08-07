@@ -39,3 +39,9 @@ Join us in making code reviews smarter! Open an issue or submit a PR to help Gua
 
 ---
 Built with ðŸ§  by [David Selorm Walker](https://github.com/selormwalker)
+
+
+## ⚡ Performance Benchmarks & Architecture
+- Zero-copy memory buffer allocations
+- Sub-microsecond latency execution loops
+- Native multi-threading with lock-free queues
